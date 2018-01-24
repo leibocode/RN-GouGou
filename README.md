@@ -47,7 +47,7 @@
 
 ![](https://github.com/leibocode/RN-GouGou/blob/master/images/5.png)
 
-##注册
+## 注册
 ![](https://github.com/leibocode/RN-GouGou/blob/master/images/7.png)
 
 
