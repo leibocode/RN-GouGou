@@ -20,35 +20,35 @@
 * 点赞
 * 点击视频进入详情
 
-![](https://https://github.com/leibocode/RN-GouGou/1.png)
+![](https://github.com/leibocode/RN-GouGou/blob/master/images/1.png)
 
 ### 详情页
 * 播放视频
 * 点击评论框进入评论
 * 评论列表
 
-![](https://https://github.com/leibocode/RN-GouGou/2.png)
+![](https://github.com/leibocode/RN-GouGou/blob/master/images/2.png)
 
 
 ### 评论
-![](https://https://github.com/leibocode/RN-GouGou/6.png)
+![](https://github.com/leibocode/RN-GouGou/blob/master/images/6.png)
 
 ### 发布配音视频页面 
 * 视频上传到七牛,生成静音视频,同步上传到cloudinary
 * 音频上传到cloudinary,合并配音音频和静音视频生成新的视频
 
-![](https://https://github.com/leibocode/RN-GouGou/3.png)
+![](https://github.com/leibocode/RN-GouGou/blob/master/images/3.png)
 
 ### 个人中心
 
-![](https://https://github.com/leibocode/RN-GouGou/4.png)
+![](https://github.com/leibocode/RN-GouGou/blob/master/images/4.png)
 
 ### 个人资料
 
-![](https://https://github.com/leibocode/RN-GouGou/5.png)
+![](https://github.com/leibocode/RN-GouGou/blob/master/images/5.png)
 
 ##注册
-![](https://https://github.com/leibocode/RN-GouGou/7.png)
+![](https://github.com/leibocode/RN-GouGou/blob/master/images/7.png)
 
 
 ### 待完成
